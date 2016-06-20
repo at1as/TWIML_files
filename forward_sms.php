@@ -1,3 +1,4 @@
+<!-- Forward SMS to number passed as PhoneNumber param -->
 <?php
   header('Content-Type: text/html');
 ?>
